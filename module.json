@@ -32,7 +32,7 @@
     "styles/dialog.css",
     "styles/settings.css"
   ],
-  "url": "https://github.com/CarlosFdez/global-progress-clocks",
+  "url": "https://github.com/silvative/global-progress-clocks",
   "manifest": "https://github.com/CarlosFdez/global-progress-clocks/releases/latest/download/module.json",
-  "download": "https://github.com/CarlosFdez/global-progress-clocks/releases/download/v0.4.3/module.zip"
+  "download": "https://github.com/silvative/global-progress-clocks/archive/refs/heads/master.zip"
 }
